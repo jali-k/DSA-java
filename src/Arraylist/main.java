@@ -1,2 +1,6 @@
-package Arraylist;public class main {
+package Arraylist;
+
+public class main {
+
+    // Simple
 }
